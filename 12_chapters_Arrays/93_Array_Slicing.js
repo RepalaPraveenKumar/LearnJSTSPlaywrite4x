@@ -1,9 +1,9 @@
 // Slice & Combining
 
 let arr = [1, 2, 3, 4, 5];
-// slice(start, end) — returns new array, 
+// slice(start, end) — returns new array,
 // does NOT mutate actual -> ( start, end-1) = index = 0
-// Don't give the end, it will automatically 
+// Don't give the end, it will automatically
 // take from start to end.
 
 // console.log(arr.slice(1, 3));

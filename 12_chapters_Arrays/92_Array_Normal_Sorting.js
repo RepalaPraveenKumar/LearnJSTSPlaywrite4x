@@ -9,4 +9,3 @@ fruits.sort((a, b) => a.localeCompare(b))
 
 
 // arrow Functions
-    
